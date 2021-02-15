@@ -1,0 +1,18 @@
+/*This is the style sheet for the start button*/
+.startButton{
+    margin-top: 5px;
+    padding: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: cursive;
+    background-color: #b97a2a;
+    color: black;
+    border-style:solid ;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 5%;
+
+
+}
+
+
